@@ -1,0 +1,5 @@
+# Created at 2025-02-22T20:10:00.386
+Boot Manifest-JAR contains absolute paths in classpath 'D:\maven learning girish\SpringbootProject02-1\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
